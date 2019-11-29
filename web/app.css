@@ -1,0 +1,19 @@
+.hidden {
+    display: none;
+}
+
+#chat-form {
+    margin-bottom: 24px;
+}
+
+.chat {
+    height: 600px;
+    max-height: 600px;
+    overflow-y: scroll;
+    border: 1px solid #000;
+    padding: 10px;
+}
+
+.system-message {
+    color: red;
+}
